@@ -2,7 +2,8 @@
   {
     "Id": "CC47E518-CC99-4AB2-A6F8-00E95974721A",
     "Time": "2016-08-08 18:20:20.9566253",
-    "Name": "Ethiopia"
+    "Name": "Ethiopia",
+    "Image": "https://raw.githubusercontent.com/Softex-Group/task-mobile/master/Ethiopia.jpeg"
   },
   {
     "Id": "39E9B4B8-F12C-49BE-B7DD-01CCFAD4E638",
@@ -57,7 +58,8 @@
   {
     "Id": "99FAADA3-6C7F-4537-AAB2-11C24E372BC5",
     "Time": "2016-08-08 18:20:20.8540861",
-    "Name": "Cyprus"
+    "Name": "Cyprus",
+    "Image": "https://raw.githubusercontent.com/Softex-Group/task-mobile/master/Cyprus.jpeg"
   },
   {
     "Id": "41817969-19F7-4557-8B66-15DAFE6C65AA",
@@ -172,7 +174,8 @@
   {
     "Id": "1104571E-5D8B-40DC-9527-2E430662EC4F",
     "Time": "2016-08-08 18:20:21.1695185",
-    "Name": "Italy"
+    "Name": "Italy",
+    "Image": "https://raw.githubusercontent.com/Softex-Group/task-mobile/master/Italy.jpeg"
   },
   {
     "Id": "9074C15C-B990-4D0C-9217-2E699670CA2D",
@@ -217,7 +220,8 @@
   {
     "Id": "48952E54-ADA6-4B2E-9A34-32987DAB99C9",
     "Time": "2016-08-08 18:20:20.5953389",
-    "Name": "Bahrain"
+    "Name": "Bahrain",
+    "Image": "https://raw.githubusercontent.com/Softex-Group/task-mobile/master/Bahrain.jpeg"
   },
   {
     "Id": "0917E91B-BFCE-4EAE-84CB-32E1797DD1B0",
@@ -262,7 +266,8 @@
   {
     "Id": "357ED986-B659-4812-8B6B-431E967070B0",
     "Time": "2016-08-08 18:20:20.6226428",
-    "Name": "Belarus"
+    "Name": "Belarus",
+    "Image": "https://raw.githubusercontent.com/Softex-Group/task-mobile/master/Belarus.jpeg"
   },
   {
     "Id": "4E1112AE-CAD1-4FF7-8C56-44434FBA7478",
